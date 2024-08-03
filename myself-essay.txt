@@ -3,3 +3,11 @@
 My name is Faizan, and I am currently pursuing a Bachelor of Science in Computer Science. Writing about oneself is both a challenging and enlightening task. 
 It offers an opportunity to reflect on personal experiences, values, and goals while providing insight into one's unique identity. 
 This essay will delve into various aspects of my life, shedding light on who I am, what I value, and what I aspire to achieve.
+
+
+### Early Life and Education
+
+I was born and raised in a close-knit family that instilled in me the values of hard work, honesty, and compassion. 
+From an early age, I was curious and eager to learn about the world around me. 
+My parents encouraged my love for reading and exploration, which significantly shaped my personality and interests. 
+My journey in education has been driven by a passion for understanding complex concepts and a desire to solve problems, ultimately leading me to pursue a Bachelor of Science in Computer Science.
